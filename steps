@@ -1,0 +1,14 @@
+step 1 install npm install bulma
+step 2 import the BULMA css lib in your styles.css file
+step 3 create card design in component.html file
+step 4 add images to assets folder
+step 5 add styles in component.css file to manage the size of card
+step 6 to create multiple cards
+    step 6.1 create new component card
+    step 6.2 copy all code from appcomponent.html to card.component.html
+    step 6.3 copy all code from appcomponent.css to card.component.css
+step 7 add <app-card> tage multiple time in app-component.html file
+step 8 add data from app component to card.component
+    step 8.1 create list of data in app-component.ts
+    step 8.2 add data from app component to card.component using input() property
+
